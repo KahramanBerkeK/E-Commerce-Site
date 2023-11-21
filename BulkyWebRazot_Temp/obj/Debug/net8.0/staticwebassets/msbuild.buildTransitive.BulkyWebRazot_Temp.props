@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BulkyWebRazot_Temp.props" />
+</Project>
